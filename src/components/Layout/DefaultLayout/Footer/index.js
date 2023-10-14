@@ -85,7 +85,7 @@ const Footer = () => {
             <div className="new-contact-item">
               Cung cấp bởi<img src={Logo2} style={{width:"50px", height: "40px"}}/>IBM Cloud
             </div>
-            
+            {/* nrew */}
           </div>
         </div>
       </div>
